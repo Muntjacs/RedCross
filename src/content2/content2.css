@@ -1,0 +1,58 @@
+.bule{
+    color: blue;
+    padding-right: 10px;
+}
+
+.content2_main h2{
+    font-size: 24px;
+    line-height: 32px;
+    color: #2c2c2c;
+}
+
+.content2_main div{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.content2_main sns{
+    width: 100%;
+    margin-top: 60px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.sns li {
+    position: relative;
+    float: left;
+    width: 240px;
+    height: 370px;
+    padding: 0 20px;
+    border: 1px solid #cccccc;
+    margin: 10px 0;
+    margin-left: 25px;
+}
+
+.sns > li > .snslogo {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    display: block;
+}
+
+.sns > li > .snsimg {
+    width: 196px;
+    height: 196px;
+    border-radius: 98px;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 45px;
+}
+
+.sns > li > p {
+    margin-top: 30px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #454545;
+}
+
+

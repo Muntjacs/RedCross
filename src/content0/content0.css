@@ -1,0 +1,51 @@
+.content0_main{
+    padding: 45px 0 100px;
+}
+
+.content0_sub{
+    width: auto;
+    margin: 0 auto;
+}
+
+.content0_left{
+    float: left;
+    width: calc(100% - 535px);
+}
+
+.content0_left h2{
+    font-size: 28px;
+    line-height: 32px;
+    color: #2c2c2c;
+}
+
+.content0_left li{
+    text-align: center;
+    float: left;
+    width: 25%;
+    margin-top: 25px;
+}
+
+.content0_right{
+    float: right;
+    width: 485px;
+}
+
+.content0_right h2{
+    font-size: 28px;
+    line-height: 32px;
+    color: #2c2c2c;
+}
+
+.content0_right ul{
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.content0_right ul li{
+    position: absolute;
+}
+
+.on{
+    display: none;
+}

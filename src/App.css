@@ -1,0 +1,55 @@
+@charset="utf-8";
+/* 리셋스타일 */
+*{margin:0; padding:0}
+ul li{list-style:none;}
+a:link{text-decoration:none;}
+
+body{ font-family : 나눔고딕;
+      color:#333;
+      background-color: #fff;
+}
+
+.App{
+  width: 1400px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.App_header{
+  width: auto;
+  height: 170px;
+}
+
+.first_header{
+  width: auto;
+  height: 40px;
+}
+
+.second_header{
+  width: auto;
+  height: 130px;
+}
+
+.content0{
+  width: auto;
+  height: 550px;
+}
+
+.content1{
+  min-width: 1400px;
+  height: 250px;
+  padding: 65px 0 100px;
+  background: #fdf2ea;
+}
+
+.content2{
+  width: auto;
+  height: 500px;
+  padding: 50px 0;
+}
+
+.first_footer {
+  min-width: 1400px;
+  padding: 13px 0 12px;
+  border-top: 1px solid #e6e6e6;
+}

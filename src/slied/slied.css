@@ -1,0 +1,15 @@
+.slide_main{
+    width:50%;
+    height:550px;
+    margin:0 auto;
+    position: relative;
+    z-index:9998;
+}
+
+.slide_main a{
+    line-height:40px;
+    position: absolute;
+    left: auto;
+    margin-left: calc(-50vw + 50%);
+    text-align:center;
+}

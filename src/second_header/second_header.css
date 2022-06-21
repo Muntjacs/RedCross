@@ -1,0 +1,38 @@
+.Seader_main{
+    margin-top: -40px;
+}
+
+.logo{
+    float: left;
+    padding: 39px 0;
+    margin: auto;
+}
+
+.gnb{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.gnb > li {
+    float: left;
+    position: relative;
+}
+
+.gnb > li > a {
+    display: block;
+    padding: 0 20px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 130px;
+    color: #2b2b2b;
+}
+
+.gnb > li > .depth2 {
+    display: none;
+    position: absolute;
+    width: 178px;
+    padding: 10px 20px;
+    border: 1px solid #c4c6c5;
+    background: #fff;
+    z-index: 200;
+}

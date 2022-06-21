@@ -1,0 +1,32 @@
+.gotop{
+    float: right;
+    margin-top: -13px;
+}
+
+.footer_main p{
+    display: inline;
+    padding: 3px 0;
+    padding-left: 40px;
+    padding-right: 80px;
+    font-size: 23px;
+    line-height: 28px;
+    color: #373737;
+}
+
+
+.foo_red{
+    color: #e76774;
+}
+
+.foo_bgb{
+    font-size: 19px;
+    color: white;
+    background-color: gray;
+    letter-spacing: 1px;
+}
+
+
+.foo_sub{
+    font-size: 18px;
+    color: #6b6b6b;
+}

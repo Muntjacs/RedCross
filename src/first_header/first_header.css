@@ -1,0 +1,72 @@
+a{
+    color: #6E645A;
+}
+
+.menu0{
+    position: absolute;
+}
+
+.menu0 li{
+    position: relative;
+    float:left;
+    width: 80px;
+    height: auto;
+    font-size: 14px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.menu0 li > a{
+    font-weight: bold;
+}
+
+
+.menu0 li:nth-child(1), .menu0 li:nth-child(5){
+    background-color: #eee;
+}
+.menu0 li:nth-child(2), .menu0 li:nth-child(4){
+    background-color: #ddd;
+}
+.menu0 li:nth-child(3){
+    background-color: #ccc;
+}
+
+.menu1 {
+    float: right;
+}
+
+.menu1_1{
+    float: left;
+    margin-top: 10px;
+}
+
+.menu1_1 > li{
+    float: left;
+    padding: 0 10px;
+}
+
+.menu1_2{
+    float: left;
+    margin-top: 10px;
+}
+
+.menu1_2 > li{
+    float: left;
+    padding: 0 9px;
+}
+
+.menu1_3{
+    float: left;
+    margin-top: 8px;
+    font-size: 0;
+}
+
+.menu1_3 > li{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.menu1 a{
+    font-size: 14px;
+    font-weight: bold;
+}
